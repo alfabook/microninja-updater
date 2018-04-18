@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-11 16:02+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lxpanel-plugin/microninja_updater.c:305
+#: lxpanel-plugin/microninja_updater.c:317
+msgid "Check again"
+msgstr ""
+
+#: lxpanel-plugin/microninja_updater.c:295
+msgid "Checking for updates ..."
+msgstr ""
+
+#: lxpanel-plugin/microninja_updater.c:299
+msgid "Checking for urgent updates ..."
+msgstr ""
+
+#: lxpanel-plugin/microninja_updater.c:309
+msgid "Install updates"
+msgstr ""
+
+#: lxpanel-plugin/microninja_updater.c:312
+msgid "Installing updates ..."
+msgstr ""
+
+#: lxpanel-plugin/microninja_updater.c:131
+msgid "Keep Microninja updated"
+msgstr ""
+
+#. Create the menu items
+#: lxpanel-plugin/microninja_updater.c:292
+msgid "Microninja Updates"
+msgstr ""
+
+#: lxpanel-plugin/microninja_updater.c:303
+msgid "No updates available"
+msgstr ""
+
+#: lxpanel-plugin/microninja_updater.c:315
+msgid "System updated"
+msgstr ""

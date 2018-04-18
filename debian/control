@@ -1,0 +1,14 @@
+Source: microninja-updater
+Maintainer: Microninja Team <info@scuolabook.it>
+Section: admin
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9), build-essential, pkg-config, libgtk2.0-dev,
+               lxpanel (>= 0.7.0), libfm-dev, libkdesk-dev
+
+Package: microninja-updater
+Architecture: any
+Depends: ${misc:Depends}, microninja-toolset (>= 2.1-2), python, libkdesk-dev,
+ gir1.2-gtk-3.0 (>= 3.10.2)
+Description: Tool to update Microninja
+ A tool written in Python to upgrade Debian packages, upgrade Python modules and extend filesystem.

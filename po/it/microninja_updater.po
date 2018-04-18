@@ -1,0 +1,57 @@
+# Italian translations for PACKAGE package.
+# Copyright (C) 2017 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Marco Lorrai <microninja@microninja.me>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-11 16:02+0100\n"
+"PO-Revision-Date: 2017-12-11 16:52+0100\n"
+"Last-Translator: Marco Lorrai <microninja@microninja.me>\n"
+"Language-Team: Italian\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: lxpanel-plugin/microninja_updater.c:305
+#: lxpanel-plugin/microninja_updater.c:317
+msgid "Check again"
+msgstr "Controlla di nuovo"
+
+#: lxpanel-plugin/microninja_updater.c:295
+msgid "Checking for updates ..."
+msgstr "Controllo aggiornamenti in corso ..."
+
+#: lxpanel-plugin/microninja_updater.c:299
+msgid "Checking for urgent updates ..."
+msgstr "Verifica aggiornamenti urgenti ..."
+
+#: lxpanel-plugin/microninja_updater.c:309
+msgid "Install updates"
+msgstr "Installa aggionamenti"
+
+#: lxpanel-plugin/microninja_updater.c:312
+msgid "Installing updates ..."
+msgstr "Installazione in corso ..."
+
+#: lxpanel-plugin/microninja_updater.c:131
+msgid "Keep Microninja updated"
+msgstr "Tieni aggiornato il tuo Microninja OS"
+
+#. Create the menu items
+#: lxpanel-plugin/microninja_updater.c:292
+msgid "Microninja Updates"
+msgstr "Aggiornamenti Microninja"
+
+#: lxpanel-plugin/microninja_updater.c:303
+msgid "No updates available"
+msgstr "Nessun aggiornamento disponibile"
+
+#: lxpanel-plugin/microninja_updater.c:315
+msgid "System updated"
+msgstr "Sistema aggiornato"

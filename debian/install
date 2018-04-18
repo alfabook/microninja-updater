@@ -1,0 +1,7 @@
+lxpanel-plugin/data/status.dat var/cache/microninja-updater
+lxpanel-plugin/microninja_updater.so usr/lib/arm-linux-gnueabihf/lxpanel/plugins/
+lxpanel-plugin/images usr/share/microninja-updater/
+lxpanel-plugin/sounds usr/share/microninja-media/
+updater/microninja-updater usr/bin
+
+po/it/microninja_updater.mo /usr/share/locale/microninja/microninja-updater/it/LC_MESSAGES/

@@ -1,0 +1,101 @@
+microninja-updater (1.2.9) unstable; urgency=low
+
+  * Replaced && with ;
+
+ -- Scuolabook srl <info@scuolabook.it>  Wed, 10 Jan 2018 17:00:00 +0000
+
+microninja-updater (1.2.8) unstable; urgency=low
+
+  * Added apt-get -f install -y -q --force-yes
+
+ -- Scuolabook srl <info@scuolabook.it>  Wed, 10 Jan 2018 12:58:00 +0000
+
+microninja-updater (1.2.7) unstable; urgency=low
+
+  * --just-print dist-upgrade
+
+ -- Scuolabook srl <info@scuolabook.it>  Tue, 9 Jan 2018 12:58:00 +0000
+
+microninja-updater (1.2.6) unstable; urgency=low
+
+  * adding dpkg --configure -a
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 11 Dec 2017 12:58:00 +0000
+
+microninja-updater (1.2.5) unstable; urgency=low
+
+  * Execute dist-upgrade
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 11 Dec 2017 12:58:00 +0000
+
+microninja-updater (1.2.4) unstable; urgency=low
+
+  * Updater script executer every time
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 11 Dec 2017 12:58:00 +0000
+
+microninja-updater (1.2.3) unstable; urgency=low
+
+  * Internazionalization / localization bugfix in menues
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 11 Dec 2017 12:58:00 +0000
+
+microninja-updater (1.2.2) unstable; urgency=low
+
+  * Internazionalization / localization ready
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 11 Dec 2017 12:58:00 +0000
+
+microninja-updater (1.2.1) unstable; urgency=low
+
+  * Locale update
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 15 Nov 2017 12:58:00 +0000
+
+microninja-updater (1.2.0) unstable; urgency=low
+
+  * Update with microninja-script-update
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 6 Apr 2016 12:58:00 +0000
+
+microninja-updater (1.1.5) unstable; urgency=low
+
+  * Update with postinst called
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 6 Apr 2016 12:58:00 +0000
+
+microninja-updater (1.1.4) unstable; urgency=low
+
+  * Update
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 6 Apr 2016 12:58:00 +0000
+
+microninja-updater (1.1.3) unstable; urgency=low
+
+  * Added postrm
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 6 Apr 2016 12:58:00 +0000
+
+microninja-updater (1.1.2) unstable; urgency=low
+
+  * Added script updater
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 6 Apr 2016 12:58:00 +0000
+
+microninja-updater (1.1.1) unstable; urgency=low
+
+  * Added script updater
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 5 Apr 2016 12:58:00 +0000
+
+microninja-updater (1.1) unstable; urgency=low
+
+  * New graphics
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 5 Apr 2016 12:58:00 +0000
+
+microninja-updater (1.0) unstable; urgency=low
+
+  * First release
+
+ -- Scuolabook srl <info@scuolabook.it>  Mon, 5 Apr 2016 12:58:00 +0000
